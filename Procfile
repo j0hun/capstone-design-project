@@ -1,1 +1,1 @@
-web: java -jar build/libs/graduation-project-0.0.1-SNAPSHOT
+web: java -jar build/libs
